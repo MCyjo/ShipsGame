@@ -1,0 +1,15 @@
+C:\Users\MikołajCyrok\RiderProjects\ShipsGame\ShipsGame\bin\Debug\net6.0\ShipsGame.exe
+C:\Users\MikołajCyrok\RiderProjects\ShipsGame\ShipsGame\bin\Debug\net6.0\ShipsGame.deps.json
+C:\Users\MikołajCyrok\RiderProjects\ShipsGame\ShipsGame\bin\Debug\net6.0\ShipsGame.runtimeconfig.json
+C:\Users\MikołajCyrok\RiderProjects\ShipsGame\ShipsGame\bin\Debug\net6.0\ShipsGame.dll
+C:\Users\MikołajCyrok\RiderProjects\ShipsGame\ShipsGame\bin\Debug\net6.0\ShipsGame.pdb
+C:\Users\MikołajCyrok\RiderProjects\ShipsGame\ShipsGame\obj\Debug\net6.0\ShipsGame.csproj.AssemblyReference.cache
+C:\Users\MikołajCyrok\RiderProjects\ShipsGame\ShipsGame\obj\Debug\net6.0\ShipsGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MikołajCyrok\RiderProjects\ShipsGame\ShipsGame\obj\Debug\net6.0\ShipsGame.AssemblyInfoInputs.cache
+C:\Users\MikołajCyrok\RiderProjects\ShipsGame\ShipsGame\obj\Debug\net6.0\ShipsGame.AssemblyInfo.cs
+C:\Users\MikołajCyrok\RiderProjects\ShipsGame\ShipsGame\obj\Debug\net6.0\ShipsGame.csproj.CoreCompileInputs.cache
+C:\Users\MikołajCyrok\RiderProjects\ShipsGame\ShipsGame\obj\Debug\net6.0\ShipsGame.dll
+C:\Users\MikołajCyrok\RiderProjects\ShipsGame\ShipsGame\obj\Debug\net6.0\refint\ShipsGame.dll
+C:\Users\MikołajCyrok\RiderProjects\ShipsGame\ShipsGame\obj\Debug\net6.0\ShipsGame.pdb
+C:\Users\MikołajCyrok\RiderProjects\ShipsGame\ShipsGame\obj\Debug\net6.0\ShipsGame.genruntimeconfig.cache
+C:\Users\MikołajCyrok\RiderProjects\ShipsGame\ShipsGame\obj\Debug\net6.0\ref\ShipsGame.dll
