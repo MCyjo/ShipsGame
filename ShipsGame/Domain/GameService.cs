@@ -50,7 +50,7 @@ public class GameService
                 _mapGenerator.SetFieldMissed(row, line);
 
             
-        } while(_ships.All(x=>x._shipStatus != eShipStatus.Destroyed));
+        } while(_ships.Any(x=>x.ShipStatus == eShipStatus.Cool));
         
         Console.WriteLine("Big victory!");
         Console.ReadLine();
